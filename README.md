@@ -1,6 +1,4 @@
-Thank you for providing the data file. Here’s the updated README section that reflects this change and includes the direct reference to the uploaded file:
 
----
 
 ## Kansas City 311 Service Requests Analysis
 
